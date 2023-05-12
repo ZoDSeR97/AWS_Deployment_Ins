@@ -1,5 +1,5 @@
 # AWS_Deployment_Ins
-General Instruction for Deploying on AWS
+General Instruction for Deploying <b><i>personal project</i></b> on AWS.
 
 ## Launch EC2 Instance
 <img src="./Resources/LaunchEC2.png">
