@@ -39,6 +39,10 @@ From here what we need to install is based on what we are using for our project
   mysql> FLUSH PRIVILEGES;
   mysql> exit;
   ```
+  ```bash
+  $ sudo mysql_secure_installation
+  ```
+  <img src="./Resources/mySQL_Secure_install.png">
   <li>Using Python install Gunicorn</li>
   
   ```bash
